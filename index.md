@@ -4,3 +4,7 @@
 ``` python 
 x = "hello world!" 
 ```
+
+- [ ] FINM Assignments 
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
